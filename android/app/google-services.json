@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "162189588607",
+    "firebase_url": "https://soma-cf6ff.firebaseio.com",
+    "project_id": "soma-cf6ff",
+    "storage_bucket": "soma-cf6ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162189588607:android:c2cc46e187aec17375a74a",
+        "android_client_info": {
+          "package_name": "com.example.soma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162189588607-splasv3ocug5rgub17kl4vq36b89b2lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwZB3zjf84223CQV_QrwvCZat28xK5-kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162189588607-splasv3ocug5rgub17kl4vq36b89b2lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
